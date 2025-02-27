@@ -1,4 +1,4 @@
-package com.technologies.communication.orderservice.subscriber;
+package com.technologies.communication.orderservice.subscribers;
 
 import com.technologies.communication.orderservice.models.OrderStatus;
 import com.technologies.communication.orderservice.models.ProductEvent;

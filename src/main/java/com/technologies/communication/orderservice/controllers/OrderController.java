@@ -4,7 +4,7 @@ import com.technologies.communication.orderservice.models.Order;
 import com.technologies.communication.orderservice.models.OrderEvent;
 import com.technologies.communication.orderservice.models.OrderStatus;
 import com.technologies.communication.orderservice.models.ProductNotFoundException;
-import com.technologies.communication.orderservice.publisher.OrderPublisher;
+import com.technologies.communication.orderservice.publishers.OrderPublisher;
 import com.technologies.communication.orderservice.repositories.OrderRepository;
 import org.springframework.grpc.sample.proto.ProductRequest;
 import org.springframework.grpc.sample.proto.ProductServiceGrpc;

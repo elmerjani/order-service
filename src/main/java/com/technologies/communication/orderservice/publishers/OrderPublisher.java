@@ -1,4 +1,4 @@
-package com.technologies.communication.orderservice.publisher;
+package com.technologies.communication.orderservice.publishers;
 
 import com.technologies.communication.orderservice.models.OrderEvent;
 import org.springframework.cloud.stream.function.StreamBridge;
